@@ -92,7 +92,7 @@ to enable ``allowTags``::
 
 .. note::
 
-    You have to use false as string! ``"false"``!
+    You have to use true as string! ``"true"``!
 
 Minimum results for search
 --------------------------

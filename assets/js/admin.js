@@ -102,9 +102,7 @@ const Admin = {
           allowClearEnabled = false;
         }
 
-        if (select.attr('data-sonata-select2-allow-tags') === 'false') {
-          allowTags = false;
-        } else {
+        if (select.attr('data-sonata-select2-allow-tags') === 'true') {
           allowTags = true;
         }
 
